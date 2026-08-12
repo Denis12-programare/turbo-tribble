@@ -1,18 +1,18 @@
 {
   "name": "turbo-tribble",
   "version": "1.0.0",
-  "description": "VibeHack Session 2",
+  "description": "Dragnev Denis — IT support, networks, full-stack development and robotics portfolio",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --check server.js && node --check script.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Denis12-programare/turbo-tribble.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["portfolio", "cv", "it-support", "full-stack", "robotics"],
+  "author": "Dragnev Denis",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
